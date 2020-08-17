@@ -101,10 +101,9 @@ script
 ```
 #!/bin/bash
 # Recommend syntax for setting an infinite while loop
-cd < replace with source file directory of the system >
 while :
 do
-   cp source_file_path destination_file_path
+   cp source_file_path .
 done
 
 ```
